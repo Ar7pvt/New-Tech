@@ -1,4 +1,4 @@
-#IMAGE #PROCESSING
+@IMAGE #PROCESSING
  VARIOUS TYPES OF IMAGE PROCESSING LIKE 
  1.Convert an image to gray
  2.varoius types of filter 
