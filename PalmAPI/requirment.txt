@@ -1,0 +1,14 @@
+langchain
+PyPDF
+python-dotenv==1.0.0
+streamlit==1.18.1
+chromadb
+streamlit-extras
+altair==4.0
+openai
+tiktoken
+google-generativeai
+unstructured
+pdf2image
+pdfminer
+pdfminer-six
